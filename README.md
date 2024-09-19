@@ -54,6 +54,8 @@ The first step is data analytical question formulation (DAP formulation). We hav
 
 •**Step 2: Data Discovery**: 
 In Step 2, Data Discovery, I used the Kaggle data portal to download the dataset. We have downloaded the dataset for the Olympics 2024, with around 600 records.
+![image](https://github.com/user-attachments/assets/bb0682ce-81b9-4b20-9cba-a8bb7ca4e216)
+
 
 •**Step 3: Data Storage Design:**
 For Step 3, Data Storage Design, I created a bucket called “olympic2024-analysis-karishma.” Under this bucket, I created a “2024” year folder, and under this folder, I created separate folders such as Landing, Raw, and Curated, Trusted to store the data from different web services in AWS S3.
